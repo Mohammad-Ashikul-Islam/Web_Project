@@ -1,0 +1,101 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.div1{
+	width: 1150px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+}
+.logo{
+	float: left;
+
+}
+.logo img{
+	width: 65px;
+}
+.title{
+	float: left;
+}
+.title h1{
+	font-size: 50px;
+}
+.login{
+	float: right;
+	margin-top: 10px;
+}
+.login form input[type=submit]{
+	background-color: #3cbc8d;
+	padding: 5px;
+	color: white;
+}
+.menu{
+	background-color: black;
+	overflow: hidden;
+	width: 1150px;
+}
+.menu ul{
+	
+}
+.menu ul li{
+	display: inline-block;
+	border-left: 1px solid white;
+}
+.menu ul li a{
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	font-weight: 5px;
+	display: inline-block;  
+	padding: 20px 36px;
+}
+.menu ul li:hover{
+	background-color: #210fd9;
+}
+/* div1 ends here */
+.div2wrapper{
+		background-color: red;
+		width: 100%;
+		height: 250px;
+}
+.div2{
+	width: 1150px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.div2 h1{
+	color: white;
+	font-size: 40px;
+}
+.div2 form h2{
+	color: white;
+}
+.div2 form{
+
+}
+.div2 form select{
+	padding: 20px 80px;
+
+}
+.div2 form select option{
+
+}
+.div2 form input[type=submit]{
+	background-color: #3cbc8d;
+	padding: 20px 30px;
+	color: white;
+}
+.div2 button{
+	background-color: #3cbc8d;
+	padding: 10px 40px;
+	color: white;
+}
+.div2 button a{
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	font-weight: 5px;
+	display: inline-block;  
+}
