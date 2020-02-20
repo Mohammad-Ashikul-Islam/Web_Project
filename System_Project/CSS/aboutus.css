@@ -56,10 +56,30 @@
 }
 .div2{
 	width: 600px;
-	margin-left: 110px;
-	margin-right: auto;
+	margin-left:380px;
+	margin-right:auto;
 }
 .div2 p{
 	font-size: 19px;
 	text-align: justify;
+}
+.div2 h2{
+	margin-top:20px;
+}
+.div2 fieldset{
+	width:800px;
+	padding:35px;
+}
+.div2 input {
+	padding:10px 60px;
+	margin: 10px 0px;
+	
+}
+#inputl{
+	margin-right:100px;
+}
+
+#labell{
+	padding-right: 50px;
+	margin-right:283px;
 }
