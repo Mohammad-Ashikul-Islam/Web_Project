@@ -63,3 +63,21 @@
 	font-size: 19px;
 	text-align: justify;
 }
+
+.div2 fieldset{
+	width:800px;
+	padding:35px;
+}
+.div2 input {
+	padding:10px 60px;
+	margin: 10px 0px;
+	
+}
+#inputl{
+	margin-right:100px;
+}
+
+#labell{
+	padding-right: 50px;
+	margin-right:283px;
+}
